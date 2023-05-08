@@ -63,10 +63,10 @@
 
 
 
-let arr = [4,3,8,6,2,9,23]
-let arr2 = [4,4,3,83,30,9,2,5]
-let str1= ['hello','world']
-let str2 = ['lets','start','code']
+// let arr = [4,3,8,6,2,9,23]
+// let arr2 = [4,4,3,83,30,9,2,5]
+// let str1= ['hello','world']
+// let str2 = ['lets','start','code']
 
 
 
@@ -99,3 +99,60 @@ let str2 = ['lets','start','code']
 
 // arr = [3,23,5,322,324,3,4,234,2,5,32]
 // arr.forEach((element)=>console.log(element))
+
+
+// arr = [4,32,25,6,393]
+
+// arr.push('hema')
+// arr.pop()
+// arr.shift()
+// arr.unshift('hema')
+// console.log(arr,arr.length)
+
+
+// arr = [4,32,25,6,393]
+
+// // arr.splice(2,3)
+// arr.splice(2,0,'hema')
+// console.log(arr)
+
+
+// arr = [4,32,25,6,393]
+
+// // let arr3 = arr.slice(0,4)
+// // console.log(arr3)
+
+// // let strarr = ['hell','hema','mane']
+// let joinarr = arr.join()
+// // let joinarr2 = strarr.join(' ')
+// console.log(joinarr)
+
+// arr = [4,32,25,6,393]
+
+// let arri = arr.keys()
+
+// for(let ele of arri){
+//     console.log(ele)
+// }
+
+// arr = [4,32,25,6,393]
+
+// let reducedArray = arr.reduce((accumulator,curent)=>accumulator+curent)
+// console.log(reducedArray)
+
+
+// arr = [4,3,42,2,5,0]
+// let arr4 = arr.reverse()
+// console.log(arr4)
+// let arr = [4,3,42,2,5,0,'hema']
+// let arr2 = arr.toString()
+// console.log(arr2)
+// arr.toString()
+
+
+
+
+
+
+
+
